@@ -1,2 +1,2 @@
 # Furious_JustDealIt
-JustDealiT is the first online platform in the Indian e-Commerce market where users no longer have to rush shop to shop or website to website in order to get the best deal of a product. We included the feature of scanning the barcode of the product for user's use.
+JustDealiT is the first online platform in the Indian e-Commerce market where users no longer have to rush shop to shop or website to website in order to get the best deals of a product.In this way we emphasize to promote indian local retailers and provide them a big target of Market.We include the salient features of scanning the barcode of the product for user's use and comparing products on the basis of expected delivery,price,discounts ,ratings of retailer and many more criteria.
